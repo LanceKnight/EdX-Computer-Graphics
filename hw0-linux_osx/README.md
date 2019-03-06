@@ -1,4 +1,4 @@
-#HW0 Description from EdX
+# HW0 Description from EdX
 
 [original assignment description](https://courses.edx.org/courses/course-v1:UCSanDiegoX+CSE167x+2T2018/courseware/Unit_0/Homework_0/2?activate_block_id=block-v1%3AUCSanDiegoX%2BCSE167x%2B2T2018%2Btype%40vertical%2Bblock%40vertical_5bceb6b3fd92)
 
