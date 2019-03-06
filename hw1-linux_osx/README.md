@@ -1,8 +1,8 @@
-# Below is a HW1 descrioption copy from EdX
+# HW1 descrioption from EdX
 [original hw1 description from EdX](https://courses.edx.org/courses/course-v1:UCSanDiegoX+CSE167x+2T2018/courseware/Unit_1/Homework_1/2?activate_block_id=block-v1%3AUCSanDiegoX%2BCSE167x%2B2T2018%2Btype%40vertical%2Bblock%40vertical_618b5e61d030)
 
 
-# Homework 1: Transformations
+## Homework 1: Transformations
 Assignment Specification
 You will be implementing a classic crystal ball interface. This simulates a world in which the viewer is glued to the outside of a transparent sphere, looking in. The sphere is centered at the origin, and that is the direction towards which your eye is always pointing. At the origin, there is something interesting to look at, in this case, a teapot.
 
@@ -12,9 +12,9 @@ Fill in the parts of Transform.cpp that say "//FILL IN YOUR CODE HERE". First, y
 
 Please see the images below (originally courtesy of "JenkinSD" refined by Jcoppens) for a visual explanation. The first (left) image clarifies which direction each keyboard key rotates (doesn't correspond exactly to function names in the code). It doesn't matter if you think left/right or up/down are swapped; your sign convention must simply match the images from the reference solution. The right image shows an incorrect result: the teapot should never rotate in the manner shown.
 
-[pic1]: https://github.com/LanceKnight/EdX-Computer-Graphics/blob/master/hw1-linux_osx/pot_rotations_ok.png
-[pic2]: https://github.com/LanceKnight/EdX-Computer-Graphics/blob/master/hw1-linux_osx/pot_rotations_bad.png
+[pic1]: https://github.com/LanceKnight/EdX-Computer-Graphics/blob/hw1/hw1-linux_osx/pot_rotations_ok.png
+[pic2]: https://github.com/LanceKnight/EdX-Computer-Graphics/blob/hw1/hw1-linux_osx/pot_rotations_bad.png
 
-# Helper Functions and Restrictions
+## Helper Functions and Restrictions
 You may use glm::dot, glm::cross, glm::transpose and glm::normalize to operate on vectors for standard dot-products, cross-products, matrix transposes and normalization. You do not strictly need to, but you may also use glm::radians and matrix-vector or matrix-matrix multiplication from the glm library (via overloaded operators). You may not use other glm or OpenGL functions, except for overloaded operators for arithmetic operations and array subscripting.
 
