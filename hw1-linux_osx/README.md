@@ -12,8 +12,8 @@ Fill in the parts of Transform.cpp that say "//FILL IN YOUR CODE HERE". First, y
 
 Please see the images below (originally courtesy of "JenkinSD" refined by Jcoppens) for a visual explanation. The first (left) image clarifies which direction each keyboard key rotates (doesn't correspond exactly to function names in the code). It doesn't matter if you think left/right or up/down are swapped; your sign convention must simply match the images from the reference solution. The right image shows an incorrect result: the teapot should never rotate in the manner shown.
 
-[pic1]: https://github.com/LanceKnight/EdX-Computer-Graphics/blob/hw1/hw1-linux_osx/pot_rotations_ok.png
-[pic2]: https://github.com/LanceKnight/EdX-Computer-Graphics/blob/hw1/hw1-linux_osx/pot_rotations_bad.png
+[pic1]: teapot_rotattions_ok.png
+[pic2]: https://github.com/LanceKnight/EdX-Computer-Graphics/blob/hw1/hw1-linux_osx/teapot_rotations_bad.png
 
 ## Helper Functions and Restrictions
 You may use glm::dot, glm::cross, glm::transpose and glm::normalize to operate on vectors for standard dot-products, cross-products, matrix transposes and normalization. You do not strictly need to, but you may also use glm::radians and matrix-vector or matrix-matrix multiplication from the glm library (via overloaded operators). You may not use other glm or OpenGL functions, except for overloaded operators for arithmetic operations and array subscripting.
