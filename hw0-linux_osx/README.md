@@ -1,12 +1,12 @@
-
+# HW0 Description from EdX
 
 [original assignment description](https://courses.edx.org/courses/course-v1:UCSanDiegoX+CSE167x+2T2018/courseware/Unit_0/Homework_0/2?activate_block_id=block-v1%3AUCSanDiegoX%2BCSE167x%2B2T2018%2Btype%40vertical%2Bblock%40vertical_5bceb6b3fd92)
-homework 0: Assignment
+
+
+## homework 0: Assignment
 To make sure you can run programs for the course, please download and compile the homework 0 framework, that can be found from our our syllabus page, and reproduced below. Some of you may also wish to browse the lectures in Unit 2 which explain OpenGL and gradually build up the program used for homework 0. (However, Unit 2 is by no means required for homework 0, which just involves setup and compilation).
 
-Homework 0 Framework
-Windows 
-Mac/Linux
+## Homework 0 Framework
 We include complete skeletons for major platforms.  If you develop on a different platform, you may need to re-create projects and Makefiles from the source code. The next page is a FAQ detailing compilation options.
 
 The Homework 0 program has a textured ground plane with 4 "pillars" and a teapot with lighting that moves.
@@ -21,5 +21,4 @@ Once you have the program running successfully, press i to move the teapot into 
 
 Next, I want you to change the color of the red highlight on the teapot to yellow (yellow is made by mixing red and green, which are the first two elements of the color vector: the third is blue). This corresponds to a RGBA value of (1,1,0,1). The relevant colors and code are defined in the "display" function of "mytest3.cpp" where it says "add lighting effects." Note that the red highlight is originally somewhat orange with a RGBA value of (1,0.5,0,1). Once you have changed the color of the highlight from red to yellow, recompile, run, and press i then o as before to output a screenshot. Rename this screenshot to "screenshot2.png".
 
-Future Homework Frameworks
-It is a good idea to visit the course syllabus and attempt to compile the later homework frameworks, so that we can catch any compilation issues early.
+
