@@ -12,7 +12,7 @@ Fill in the parts of Transform.cpp that say "//FILL IN YOUR CODE HERE". First, y
 
 Please see the images below (originally courtesy of "JenkinSD" refined by Jcoppens) for a visual explanation. The first (left) image clarifies which direction each keyboard key rotates (doesn't correspond exactly to function names in the code). It doesn't matter if you think left/right or up/down are swapped; your sign convention must simply match the images from the reference solution. The right image shows an incorrect result: the teapot should never rotate in the manner shown.
 
-![teapot_rotations_ok]( teapot_rotattions_ok.png)
+![teapot_rotations_ok](https://github.com/LanceKnight/EdX-Computer-Graphics/blob/hw1/hw1-linux_osx/teapot_rotations_bad.png)
 ![teapot_rotations_bad](https://github.com/LanceKnight/EdX-Computer-Graphics/blob/hw1/hw1-linux_osx/teapot_rotations_bad.png)
 
 ## Helper Functions and Restrictions
